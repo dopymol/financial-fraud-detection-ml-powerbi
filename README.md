@@ -25,3 +25,5 @@ Fraud Rate:
 ## Dashboard Includes
 - Fraud Analytics Dashboard
 - Model Performance Dashboard
+
+Future improvement: Deploy fraud detection model using Streamlit for real-time predictions.
